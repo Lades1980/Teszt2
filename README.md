@@ -6,3 +6,5 @@ tanulás2
 Valami
 
 dfsdgsdfgsdf
+
+# Csak még valami kimaradt
